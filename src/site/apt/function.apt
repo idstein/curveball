@@ -1,0 +1,22 @@
+
+Texture rendering with alpha
+Anpassung an GLSL, Mischen mit der verwendeten Farbinformation an gegebene Position
+Verwendung von Bildern mit Alphainformationen als Texturen
+
+Collision detection
+Vorhersage von Zeitpunkt und Ort der nächsten Kollision zwischen Sphere und Ebene
+
+Reflection
+Berechnung eines einfachen Rückwurfs anhand der direkten und vollständigen Reflexion (Eingangswinkel gleich Ausgangswinkel)
+Beeinflußung der Geschwindigkeit bei Bewegung des Schlägers
+
+Sound effects
+Verwendung von OpenAL
+Verfügbarkeit von WAV-Audiodateien
+Initialisierung von Playback Device
+Pufferung von Soundinformationen
+Abspielen von Soundinformationen (Endlosschleife, einfache Wiedergabe)
+
+Curveball
+Berechnung von kurvigen Flugbahnen, Trajektionspunkt
+Änderung von Geschwindigkeit und Beschleunigungsmoment

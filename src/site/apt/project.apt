@@ -1,0 +1,46 @@
+            ------
+            Curveball - Ping Pong in 3D
+            ------
+            Paul Idstein
+            ------
+            2015-07-10
+
+Zeitplan
+
+  [[1]] Erstellung eines Zeitplans, Vorgehensweise und Auswahl der umzusetzenden Funktionalitäten (1 Tag)
+  
+  [[2]] Implementierung der fundamentalen Funktionen und Hilfselemente (1-2 Tage)
+  
+  [[3]] Umsetzung der Spielelemente (1 Tag)
+  
+  [[4]] Grafische Benutzerschnittstelle und Interaktionsmöglichkeiten (1 Tag)
+   
+  [[5]] Erweiterung des Basisspiels (1 Tag)
+  
+  [[6]] Test und Dokumentation (1 Tag)
+
+Arbeitsteilung
+  
+  Aufgrund der Berufstätigkeit (insbesondere 2-wöchiger Schulungen) des Autors konnte kein passender Teamer gefunden werden.
+  Es erfolgt hier keine Arbeitsteilung im Sinne von Verteilung der notwendigen Arbeitspakete auf unterschiedliche Implementierer.
+
+Vorgehensweise
+  
+  Als Vorgehensmodell wurde wegen fehlender Erfahrung im Entwurf, Design und Implementierung von 3D Software ein inkrementell-iterativ Modell gewählt. 
+  
+  Mit diesem Modell konnte schrittweise mit aufeinander aufbauenden Komponenten eine zielführende, steuerbare und kontrollierbare Umsetzung stattfinden.
+
+Milestones
+
+  * Kick-Off 04.07.
+  
+  * Basic Rendering 05.07.
+  
+  * Simple Game Logic 07.07.
+  
+  * User interface enhancements 08.07.
+  
+  * Advanced game features 09.07.
+  
+  * Documentation 10.07.
+  
