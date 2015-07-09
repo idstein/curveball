@@ -17,7 +17,7 @@ Several quick start options are available:
 
 - Retrieve this bundle from the internal platform
 - Install with [Maven](http://maven.apache.org).
-- Execute the `maven_install_lwjgl.sh' and `maven_install_joml.sh' to install [lwjgl](http://lwjgl.org) and [joml](http://joml-ci.github.io/JOML/) to your local maven repository.
+- Execute the `maven_install_lwjgl.sh`` and `maven_install_joml.sh`` to install [lwjgl](http://lwjgl.org) and [joml](http://joml-ci.github.io/JOML/) to your local maven repository.
 - 
 
 Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
